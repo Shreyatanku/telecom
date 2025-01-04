@@ -1,0 +1,58 @@
+.registerPage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #1A3636;
+  }
+  
+  .registerForm {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+  }
+  
+  .input, .select {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .button {
+    background-color: #677D6A;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-top: 10px;
+  }
+  
+  .button:hover {
+    background-color: #D6BD98;
+  }
+  
+  .error {
+    color: red;
+    font-size: 0.9rem;
+  }
+  
+  .loginLink {
+    margin-top: 20px;
+  }
+  
+  .loginLink a {
+    color: #40534C;
+    text-decoration: none;
+  }
+  
+  .loginLink a:hover {
+    text-decoration: underline;
+  }
+  

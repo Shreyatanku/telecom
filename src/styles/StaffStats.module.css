@@ -1,0 +1,16 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+    background-color: #40534c;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .container div:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+  }
+  

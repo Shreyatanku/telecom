@@ -1,0 +1,13 @@
+.list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+  }
+  
+  .noSuppliers {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #40534c;
+    margin-top: 20px;
+  }
+  

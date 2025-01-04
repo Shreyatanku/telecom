@@ -1,0 +1,26 @@
+.container {
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
+  }
+  
+  h1 {
+    margin-bottom: 10px;
+    color: #40534c;
+  }
+  
+  p {
+    font-size: 1.1rem;
+    color: #1a3636;
+  }
+  
+  .error {
+    text-align: center;
+    color: red;
+    font-size: 1.2rem;
+  }
+  

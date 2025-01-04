@@ -1,0 +1,36 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #40534C;
+    color: #fff;
+  }
+  
+  .header .logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .header .logo img {
+    height: 40px;
+    margin-right: 10px;
+  }
+  
+  .header .nav ul {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+  }
+  
+  .header .nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .header .user-menu {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  

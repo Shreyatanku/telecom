@@ -1,0 +1,17 @@
+.container {
+    padding: 20px;
+    background-color: #f5f5f5;
+  }
+  
+  .statsContainer {
+    margin-bottom: 30px;
+  }
+  
+  .notificationsContainer {
+    background-color: #40534c;
+    padding: 20px;
+    border-radius: 10px;
+    color: #fff;
+  }
+
+  
